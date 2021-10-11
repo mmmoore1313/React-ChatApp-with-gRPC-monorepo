@@ -31,7 +31,7 @@
 >>>>
 >>>> </details>
 >>>> <details>
->>>>  <summary>2.0- Add a `.gitignore`</summary>
+>>>>  <summary>2.0- Add a <code>.gitignore</code></summary>
 >>>>
 >>>>> 2.1- `touch .gitignore`  
 >>>>> 2.2- In the `.gitignore`, add:  
@@ -43,7 +43,7 @@
 >>>>
 >>>> </details>
 >>>> <details>
->>>>  <summary>3.0- Create a `package.json` file</summary>
+>>>>  <summary>3.0- Create a <code>package.json</code> file</summary>
 >>>>
 >>>>> 3.1- Run `npm init`  
 >>>>> 3.2- Add the following:  
