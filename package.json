@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/mmmoore1313/React-ChatApp-with-gRPC-monorepo/issues"
   },
-  "homepage": "https://github.com/mmmoore1313/React-ChatApp-with-gRPC-monorepo#readme"
+  "homepage": "https://github.com/mmmoore1313/React-ChatApp-with-gRPC-monorepo#readme",
+  "dependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/plugin-transform-runtime": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "@babel/preset-react": "^7.14.5"
+  }
 }
