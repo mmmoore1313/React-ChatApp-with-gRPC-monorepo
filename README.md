@@ -22,7 +22,38 @@
 >>> <details>
 >>>  <summary><b>Monorepo</b></summary>
 >>>
+>>>> <details>
+>>>>  <summary>1. Initialize your repository</summary>
 >>>>
+>>>>> 1.1- `mkdir <repo name>`
+>>>>> 1.2- `cd <repo name>`
+>>>>> 1.3- `git init`
+>>>>
+>>>> </details>
+>>>> <details>
+>>>>  <summary>2. Add a `.gitignore`</summary>
+>>>>
+>>>>> 2.1- `touch .gitignore`
+>>>>> 2.2- In the `.gitignore`, add:
+>>>>>> ```
+node_modules/
+.next
+dist```
+>>>>
+>>>> <details>
+>>>>  <summary>3. Create a `package.json` file</summary>
+>>>>
+>>>>> 3.1- Run `npm init`
+>>>>> 3.2- Add the following:
+>>>>>> ```
+{
+  "name": "@monorepo-starter/root",
+  "version": "1.0.0",
+  "private": true
+} ```
+>>>>
+>>>> </details>
+
 >>>
 >>> </details>
 >>> <details>
