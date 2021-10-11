@@ -91,13 +91,13 @@
 >>>
 >>> </details>
 >>> <details>
->>>  <summary><b>Backend</b></summary>
+>>>  <summary><b><a href="https://daily.dev/blog/build-a-chat-app-using-grpc-and-reactjs">Backend</a></b></summary>
 >>>
 >>>>
 >>>
 >>> </details>
 >>> <details>
->>>  <summary><b>Frontend</b></summary>
+>>>  <summary><b><a href="https://daily.dev/blog/build-a-chat-app-using-grpc-and-reactjs">Frontend</a></b></summary>
 >>>
 >>>>
 >>>
