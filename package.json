@@ -1,0 +1,26 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*",
+    "services/*"
+  ],
+  "description": "This is a mono repo for a basic Discord Clone using gRPC and React, following the tutorial, \"Build a chat app using gRPC and React\" found at https://daily.dev/blog/build-a-chat-app-using-grpc-and-reactjs, written by Chidume Nnamdi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmmoore1313/React-ChatApp-with-gRPC-monorepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmmoore1313/React-ChatApp-with-gRPC-monorepo/issues"
+  },
+  "homepage": "https://github.com/mmmoore1313/React-ChatApp-with-gRPC-monorepo#readme"
+}
