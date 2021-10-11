@@ -2,17 +2,17 @@
 > <details>
 >   <summary>Contents</summary>
 >
->> | [About]() | [Technologies Used]() |
+>> | [About](https://github.com/mmmoore1313/React-ChatApp-with-gRPC-monorepo#about) | [Technologies Used](https://github.com/mmmoore1313/React-ChatApp-with-gRPC-monorepo#technologies-used) |
 >> |--|--|
->> | [Steps]() | [Links]() |
->> | [Snappshot]() | |
+>> | [Steps](https://github.com/mmmoore1313/React-ChatApp-with-gRPC-monorepo#steps) | [Links](https://github.com/mmmoore1313/React-ChatApp-with-gRPC-monorepo#links) |
+>> | [Snappshot](https://github.com/mmmoore1313/React-ChatApp-with-gRPC-monorepo#snapshot) | |
 >>
 > </details>
 >
 >
 > ## About
 >> This is a mono repo for a basic Discord Clone using gRPC and React, following the tutorial, "[Build a chat app using gRPC and React](https://daily.dev/blog/build-a-chat-app-using-grpc-and-reactjs)" written by [Chidume Nnamdi](https://app.daily.dev/chidumennamdi)
->> ###### [(Return to top)]()
+>> ###### [(Return to top)](https://github.com/mmmoore1313/React-ChatApp-with-gRPC-monorepo#discord-clone-chat-app-using-grpc)
 >
 >
 > ## Steps
@@ -20,10 +20,10 @@
 >>  <summary>Steps that I took to create the monorepo, back end, and front end</summary>
 >> 
 >>> <details>
->>>  <summary><b>Monorepo</b></summary>
+>>>  <summary><b>[Monorepo](https://monorepo.guide/getting-started)</b></summary>
 >>>
 >>>> <details>
->>>>  <summary>1. Initialize your repository</summary>
+>>>>  <summary>1.0- Initialize your repository</summary>
 >>>>
 >>>>> 1.1- `mkdir <repo name>`  
 >>>>> 1.2- `cd <repo name>`  
@@ -31,7 +31,7 @@
 >>>>
 >>>> </details>
 >>>> <details>
->>>>  <summary>2. Add a `.gitignore`</summary>
+>>>>  <summary>2.0- Add a `.gitignore`</summary>
 >>>>
 >>>>> 2.1- `touch .gitignore`  
 >>>>> 2.2- In the `.gitignore`, add:  
@@ -43,7 +43,7 @@
 >>>>
 >>>> </details>
 >>>> <details>
->>>>  <summary>3. Create a `package.json` file</summary>
+>>>>  <summary>3.0- Create a `package.json` file</summary>
 >>>>
 >>>>> 3.1- Run `npm init`  
 >>>>> 3.2- Add the following:  
