@@ -104,12 +104,30 @@
 >>> </details>
 >> ###### [(Return to top)](https://github.com/mmmoore1313/React-ChatApp-with-gRPC-monorepo#discord-clone-chat-app-using-grpc)
 >> </details>
+>
+> ## Snapshot
+>> <details>
+>>  <summary><summary>
+>>
+>>>
+>>
+>> ###### [(Return to top)](https://github.com/mmmoore1313/React-ChatApp-with-gRPC-monorepo#discord-clone-chat-app-using-grpc)
 >> </details>
-  
-
-
-## Snapshot
-
-## Technologies Used
-
-## Links
+>
+> ## Technologies Used
+>> <details>
+>>  <summary><summary>
+>>
+>>>
+>>
+>> ###### [(Return to top)](https://github.com/mmmoore1313/React-ChatApp-with-gRPC-monorepo#discord-clone-chat-app-using-grpc)
+>> </details>
+>
+> ## Links
+>> <details>
+>>  <summary><summary>
+>>
+>>>
+>>
+>> ###### [(Return to top)](https://github.com/mmmoore1313/React-ChatApp-with-gRPC-monorepo#discord-clone-chat-app-using-grpc)
+>> </details>
