@@ -83,7 +83,9 @@
 >>>>>> };
 >>>>>> ```  
 >>>>> 5.3- Install the babel plugins:  
->>>>>> ```yarn add @babel/core @babel/plugin-transform-runtime @babel/preset-env @babel/preset-react -W```
+>>>>>> ```
+>>>>>> yarn add @babel/core @babel/plugin-transform-runtime @babel/preset-env @babel/preset-react -W
+>>>>>> ```
 >>>>
 >>>> </details>
 >>>
