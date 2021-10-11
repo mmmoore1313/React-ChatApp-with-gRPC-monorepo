@@ -50,7 +50,8 @@
 >>>>>>   "name": "@monorepo-starter/root",
 >>>>>>   "version": "1.0.0",
 >>>>>>   "private": true
->>>>>> } ```
+>>>>>> } 
+>>>>>> ```
 >>>>
 >>>> </details>
 
