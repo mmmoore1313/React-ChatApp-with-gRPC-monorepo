@@ -36,9 +36,9 @@
 >>>>> 2.1- `touch .gitignore`
 >>>>> 2.2- In the `.gitignore`, add:
 >>>>>> ```
-node_modules/
-.next
-dist```
+>>>>>> node_modules/
+>>>>>> .next
+>>>>>> dist```
 >>>>
 >>>> <details>
 >>>>  <summary>3. Create a `package.json` file</summary>
@@ -46,11 +46,11 @@ dist```
 >>>>> 3.1- Run `npm init`
 >>>>> 3.2- Add the following:
 >>>>>> ```
-{
-  "name": "@monorepo-starter/root",
-  "version": "1.0.0",
-  "private": true
-} ```
+>>>>>> {
+>>>>>>   "name": "@monorepo-starter/root",
+>>>>>>   "version": "1.0.0",
+>>>>>>   "private": true
+>>>>>> } ```
 >>>>
 >>>> </details>
 
