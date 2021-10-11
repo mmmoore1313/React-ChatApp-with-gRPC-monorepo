@@ -38,7 +38,8 @@
 >>>>>> ```
 >>>>>> node_modules/
 >>>>>> .next
->>>>>> dist```
+>>>>>> dist
+>>>>>> ```
 >>>>
 >>>> <details>
 >>>>  <summary>3. Create a `package.json` file</summary>
@@ -51,7 +52,6 @@
 >>>>>>   "version": "1.0.0",
 >>>>>>   "private": true
 >>>>>> } 
->>>>>> ```
 >>>>
 >>>> </details>
 
