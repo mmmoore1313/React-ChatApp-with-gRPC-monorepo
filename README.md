@@ -1,9 +1,8 @@
 # Discord Clone Chat App using gRPC
 | [About]() | [Technologies Used]() |
 |--|--|
-| [Wireframe]() | [Future Iterations]() |
-| [Snappshot]() | [Links]() |
-| [Planning]() |  |
+| [Steps]() | [Links]() |
+| [Snappshot]() | |
 
 ## About
 > <details>
@@ -11,3 +10,10 @@
 >
 >> ![ERD/Wireframe](linkToWireframe)
 
+## Steps
+
+## Snapshot
+
+## Technologies Used
+
+## Links
