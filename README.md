@@ -20,7 +20,7 @@
 >>  <summary>Steps that I took to create the monorepo, back end, and front end</summary>
 >> 
 >>> <details>
->>>  <summary><b>[Monorepo](https://monorepo.guide/getting-started)</b></summary>
+>>>  <summary><b><a href="https://monorepo.guide/getting-started">Monorepo</a></b></summary>
 >>>
 >>>> <details>
 >>>>  <summary>1.0- Initialize your repository</summary>
@@ -53,6 +53,12 @@
 >>>>>>   "version": "1.0.0",
 >>>>>>   "private": true
 >>>>>> } 
+>>>>
+>>>> </details>
+>>>> <details>
+>>>>  <summary></summary>
+>>>>
+>>>>>
 >>>>
 >>>> </details>
 
