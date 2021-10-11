@@ -11,17 +11,17 @@
   </details>
 
 ## Steps
->  <details>
->>    <summary>Steps that I took to create the monorepo, back end, and front end</summary>
->>>      <details>
->>>>        <summary><b>Monorepo</b></summary>
->>>      </details>
->>>      <details>
->>>>        <summary><b>Backend</b></summary>
->>>      </details>
->>>      <details>
->>>>        <summary><b>Frontend</b></summary>
->>>      </details>
+> <details>
+>>  <summary>Steps that I took to create the monorepo, back end, and front end</summary>
+>>>   <details>
+>>>>    <summary><b>Monorepo</b></summary>
+>>>   </details>
+>>>   <details>
+>>>>    <summary><b>Backend</b></summary>
+>>>   </details>
+>>>   <details>
+>>>>    <summary><b>Frontend</b></summary>
+>>>   </details>
 >  </details>
   
 
