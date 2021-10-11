@@ -41,6 +41,7 @@
 >>>>>> dist
 >>>>>> ```
 >>>>
+>>>> </details>
 >>>> <details>
 >>>>  <summary>3. Create a `package.json` file</summary>
 >>>>
