@@ -128,6 +128,5 @@
 >>  <summary><summary>
 >>
 >>>
->>
 >> ###### [(Return to top)](https://github.com/mmmoore1313/React-ChatApp-with-gRPC-monorepo#discord-clone-chat-app-using-grpc)
 >> </details>
